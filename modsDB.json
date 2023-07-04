@@ -37,7 +37,7 @@
       "url": "https://github.com/TeamDoodz/UKAmmoMod"
     },
     {
-      "thumbnail": "https://ultramods.xyz/images/rs.jpg",
+      "thumbnail": "",
       "name": "RankTitleSwapper",
       "description": "Swaps the sprites\nfor the style ranks",
       "contributors": "wafflethings",
@@ -46,7 +46,7 @@
       "url": "https://github.com/wafflethings/RankTitleSwapper"
     },
     {
-      "thumbnail": "https://ultramods.xyz/images/ultrakull.jpg",
+      "thumbnail": "",
       "name": "Ultrakull",
       "description": "Translation and\nlocalization into\nvarious languages",
       "contributors": "Clearwater",
