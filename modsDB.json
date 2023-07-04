@@ -6,7 +6,7 @@
       "description": "Multiplayer for Pinneaple On Pizza",
       "contributors": "Jorge0301, Radsi",
       "recommended": true,
-      "game": "PoP",
+      "game": "Pineapple on pizza",
       "url": "https://github.com/Jorgegzz/PoPM"
     },
     {
@@ -15,7 +15,7 @@
       "description": "A mod that allows you to customize villagers",
       "contributors": "Radsi",
       "recommended": false,
-      "game": "PoP",
+      "game": "Pineapple on pizza",
       "url": "https://github.com/radsi/PoP-CustomVillagers"
     },
     {
@@ -24,7 +24,7 @@
       "description": "A simple Pineapple on Pizza mod that allows you to change the draw distance and remove decoration from the island",
       "contributors": "Radsi",
       "recommended": false,
-      "game": "PoP",
+      "game": "Pineapple on pizza",
       "url": "https://github.com/radsi/PoPtimization"
     },
     {
@@ -33,7 +33,7 @@
       "description": "A pineapple on pizza mod with things that Radsi wanted to do because yes",
       "contributors": "Radsi",
       "recommended": false,
-      "game": "PoP",
+      "game": "Pineapple on pizza",
       "url": "https://github.com/radsi/PoP-RadsiStuff"
     }
   ]
