@@ -10,7 +10,7 @@
       "url": "https://github.com/wafflethings/ULTRAKILLtweaker"
     },
     {
-      "thumbnail": "none",
+      "thumbnail": "",
       "name": "Ultrakill Achievements",
       "description": "Adds 40+\nachievements to\nUltrakill",
       "contributors": "Protract-123",
@@ -19,7 +19,7 @@
       "url": "https://github.com/Protract-123/Ultrakill-Achievements"
     },
     {
-      "thumbnail": "none",
+      "thumbnail": "",
       "name": "UltraAchievement Core",
       "description": "Plugin made to add\nsupport for simple\ncustom achievements",
       "contributors": "Protract-123",
@@ -28,7 +28,7 @@
       "url": "https://github.com/Protract-123/UltraAchievement-Core"
     },
     {
-      "thumbnail": "none",
+      "thumbnail": "",
       "name": "Ammo Mod",
       "description": "Adds an ammo system",
       "contributors": "TeamDoodz",
