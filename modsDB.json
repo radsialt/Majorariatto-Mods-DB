@@ -11,12 +11,30 @@
     },
     {
       "thumbnail": "",
-      "name": "Custom Villager",
+      "name": "Custom Villagers",
       "description": "A mod that allows you to customize villagers",
       "contributors": "Radsi",
       "recommended": false,
       "game": "PoP",
       "url": "https://github.com/radsi/PoP-CustomVillagers"
+    },
+    {
+      "thumbnail": "",
+      "name": "PoPtimization",
+      "description": "A simple Pineapple on Pizza mod that allows you to change the draw distance and remove decoration from the island",
+      "contributors": "Radsi",
+      "recommended": false,
+      "game": "PoP",
+      "url": "https://github.com/radsi/PoPtimization"
+    },
+    {
+      "thumbnail": "",
+      "name": "PoP-RadsiStuff",
+      "description": "A pineapple on pizza mod with things that Radsi wanted to do because yes",
+      "contributors": "Radsi",
+      "recommended": false,
+      "game": "PoP",
+      "url": "https://github.com/radsi/PoP-RadsiStuff"
     }
   ]
 }
