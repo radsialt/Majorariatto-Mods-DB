@@ -2,57 +2,21 @@
   "cards": [
     {
       "thumbnail": "https://i.imgur.com/628MLLV.png",
-      "name": "UltraTweaker",
-      "description": "Tweaks and modifiers for\nultrakill",
-      "contributors": "wafflethings",
+      "name": "PoPM",
+      "description": "Multiplayer for Pinneaple On Pizza",
+      "contributors": "Jorge0301, Radsi",
       "recommended": true,
-      "game": "shipped",
-      "url": "https://github.com/wafflethings/ULTRAKILLtweaker"
+      "game": "PoP",
+      "url": "https://github.com/Jorgegzz/PoPM"
     },
     {
       "thumbnail": "",
-      "name": "Ultrakill Achievements",
-      "description": "Adds 40+\nachievements to\nUltrakill",
-      "contributors": "Protract-123",
-      "recommended": false,
-      "game": "pureya",
-      "url": "https://github.com/Protract-123/Ultrakill-Achievements"
-    },
-    {
-      "thumbnail": "",
-      "name": "UltraAchievement Core",
-      "description": "Plugin made to add\nsupport for simple\ncustom achievements",
-      "contributors": "Protract-123",
-      "recommended": false,
-      "game": "TOWPOTSWBCK",
-      "url": "https://github.com/Protract-123/UltraAchievement-Core"
-    },
-    {
-      "thumbnail": "",
-      "name": "Ammo Mod",
-      "description": "Adds an ammo system",
-      "contributors": "TeamDoodz",
+      "name": "Custom Villager",
+      "description": "A mod that allows you to customize villagers",
+      "contributors": "Radsi",
       "recommended": false,
       "game": "PoP",
-      "url": "https://github.com/TeamDoodz/UKAmmoMod"
-    },
-    {
-      "thumbnail": "",
-      "name": "RankTitleSwapper",
-      "description": "Swaps the sprites\nfor the style ranks",
-      "contributors": "wafflethings",
-      "recommended": true,
-      "game": "Majorariatto Museum",
-      "url": "https://github.com/wafflethings/RankTitleSwapper"
-    },
-    {
-      "thumbnail": "",
-      "name": "Ultrakull",
-      "description": "Translation and\nlocalization into\nvarious languages",
-      "contributors": "Clearwater",
-      "recommended": true,
-      "game": "golfing over it",
-      "url": "https://github.com/ClearwaterUK/UltrakULL"
+      "url": "https://github.com/radsi/PoP-CustomVillagers"
     }
   ]
 }
